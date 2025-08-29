@@ -101,7 +101,7 @@
             android:id="@+id/textViewResults"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Results will be shown here"
+            android:text="Student Details:"
             android:textSize="16sp"
             android:padding="8dp"/>
     </ScrollView>
